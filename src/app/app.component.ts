@@ -15,7 +15,7 @@ export class AppComponent {
   menuItems: MenuItem[] = [
     { icon: 'home', label: 'Home', route: '/home' },
     { icon: 'store', label: 'Shop', route: '/shop' },
-    { icon: 'article', label: 'Blog', route: '/blog' },
+    // { icon: 'article', label: 'Blog', route: '/blog' },
     { icon: 'info', label: 'About', route: '/about' },
     { icon: 'phone', label: 'Contact', route: '/contact' }
   ];
